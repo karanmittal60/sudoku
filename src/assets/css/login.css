@@ -1,0 +1,30 @@
+.login {
+    margin: 50px auto;
+    width: 50%;
+    box-shadow: #282c34;
+    background-color: #f5f5f5;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.login button{
+    width: 40%;
+    border-radius: 50px;
+    background-color: #282c34;
+    color: #ffffff;
+}
+
+.login button:hover {
+    border: 1px solid #282c34;
+    color: #282c34;
+    background-color: #fff;
+}
+
+.login input{
+    /*border-radius: 0px;*/
+    /*border-bottom: 1px solid red;*/
+}
+.login input:focus  {
+    border-color: #282c34;
+    box-shadow: 0 0 0 0.2rem rgba(40, 44, 52, 0.46);
+}

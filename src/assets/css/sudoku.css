@@ -1,0 +1,40 @@
+
+.su-wrapper {
+    text-align: center;
+    margin: 50px auto;
+    border: 1px solid #121212;
+    width: 344px;
+
+}
+
+.su-content {
+
+}
+
+
+.su-input::-webkit-outer-spin-button,
+.su-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+.su-input {
+    -moz-appearance: textfield;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border-collapse: collapse;
+    border: 0px;
+}
+
+.su-cell {
+    border: 0.5px solid #000;
+}
+.cbb {
+    border-bottom: 2px solid #121212 !important;
+}
+
+.cbr {
+    border-right: 2px solid #121212 !important;
+}
